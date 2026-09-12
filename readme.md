@@ -22,9 +22,9 @@ I solve problems in the following programming language:
 
 Feel free to connect with me:
 
-<p align="center">
+<p>
 
-  <a href="https://www.linkedin.com/in/-maruf007">
+  <a href="https://www.linkedin.com/in/marufhtuhin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
